@@ -1,2 +1,52 @@
 # xv6
-xv6 kernel
+==参考书==
+
+xv6手册
+
+==笔记和代码==
+
+https://fanxiao.tech/posts/2021-03-02-mit-6s081-notes
+
+https://github.com/ZachVec/MIT-6.S081
+
+https://www.bilibili.com/video/BV1ou41127p9
+
+主要看这老哥的视频和笔记吧
+
+https://space.bilibili.com/28086502 B站UP黑色卡坤
+
+https://cactus-agenda-c84.notion.site/XV6-labs-2021-0894f931b3324edea30dca7826c01a97
+
+不涉及原理的东西，可以直接找参考，不要死磕浪费时间。
+
+https://space.bilibili.com/29279076 B站 Deniffer，博客地址 www.ourdiz.com
+
+==开发环境==
+
+用云服务器配置
+记住服务器的配置清单
+vim编辑器（和一大堆配置）
+VScode ssh
+VSCode vim
+gdb调试工具
+服务器ip：124.221.1.229
+
+用户名：root
+
+密码：Guanshixun479
+
+https://blog.csdn.net/qq_46514141/article/details/132692124
+
+==gdb调试和VScode调试==
+
+https://www.bilibili.com/video/BV1Eb41197wb 30min开始调试
+
+https://www.cnblogs.com/KatyuMarisaBlog/p/13727565.html 调试文档
+
+==makefile==
+
+https://seisman.github.io/how-to-write-makefile/overview.html
+
+==做lab==
+
+做之前可以打开源码看看，大致了解黑盒子里的原理。
