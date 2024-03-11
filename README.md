@@ -29,13 +29,6 @@ vim编辑器（和一大堆配置）
 VScode ssh
 VSCode vim
 gdb调试工具
-服务器ip：124.221.1.229
-
-用户名：root
-
-密码：Guanshixun479
-
-https://blog.csdn.net/qq_46514141/article/details/132692124
 
 ==gdb调试和VScode调试==
 
