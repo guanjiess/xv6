@@ -11,13 +11,13 @@ https://github.com/ZachVec/MIT-6.S081
 
 https://www.bilibili.com/video/BV1ou41127p9
 
-主要看这老哥的视频和笔记吧
+参考笔记
 
 https://space.bilibili.com/28086502 B站UP黑色卡坤
 
 https://cactus-agenda-c84.notion.site/XV6-labs-2021-0894f931b3324edea30dca7826c01a97
 
-不涉及原理的东西，可以直接找参考，不要死磕浪费时间。
+
 
 https://space.bilibili.com/29279076 B站 Deniffer，博客地址 www.ourdiz.com
 
@@ -39,7 +39,3 @@ https://www.cnblogs.com/KatyuMarisaBlog/p/13727565.html 调试文档
 ==makefile==
 
 https://seisman.github.io/how-to-write-makefile/overview.html
-
-==做lab==
-
-做之前可以打开源码看看，大致了解黑盒子里的原理。
